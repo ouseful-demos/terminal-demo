@@ -13,7 +13,7 @@ jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlite==0.1.0b14
 
-lckr-jupyterlab-variableinspector
+#lckr-jupyterlab-variableinspector
 
 jupyterlite-xeus-python
 
